@@ -95,9 +95,9 @@ Reliability and validity of the resulting constructs:
 <p align="center"><em>Diagnostic metrics for existing MLLM benchmarks across four dimensions.</em></p>
 
 GOLD achieves the best balance across the three dimensions with the highest overall score
-(2.625). MVBench shows the most entangled constructs ($D_{\mathrm{div}}=0.094$); SEEDBenchV2
-the weakest indicator validity ($D_{\mathrm{valid}}=0.081$). QBench and MMBench score high on
-TC (0.926, 0.920) but pay for it in redundancy.
+(1.97). MVBench shows the most entangled constructs ($D_{\mathrm{div}}=0.09$); SEEDBenchV2
+the weakest indicator validity ($D_{\mathrm{valid}}=0.08$). QBench and MMBench score high on
+TC (0.93, 0.92) but pay for it in redundancy.
 
 <p align="center">
   <img src="assets/Correlation_with_Human.png" width="49%">
