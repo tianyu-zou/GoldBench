@@ -4,8 +4,6 @@
 
 Shengwu Xiong, Tianyu Zou, Cong Wang, Xuelong Li
 
-[![paper](https://img.shields.io/badge/paper-IEEE-blue)](.) [![python](https://img.shields.io/badge/python-3.8%2B-blue)](.) [![plspm](https://img.shields.io/badge/SEM-plspm-orange)](https://pypi.org/project/plspm/)
-
 Official implementation of the SEM-based benchmark evaluation framework and the **GOLD**
 benchmark.
 
