@@ -123,8 +123,6 @@ Threshold ablation, which fixes the operating point:
 
 ## How to filter tasks
 
-The pipeline (Algorithm 1) has three stages. Stages 1 and 3 are yours; stage 2 is automated.
-
 ### Stage 1 — Assign each candidate task to a capability layer
 
 Assign by **what the task requires of the model**, not by its surface format or subject matter.
@@ -217,11 +215,6 @@ file assigning tasks to constructs:
   }
 }
 ```
-
-Ready-made specs are in [specs/](specs/); [data/demo_scores.csv](data/demo_scores.csv) is
-synthetic data with defects planted for testing, **not** the paper's data. See
-[docs/USAGE.md](docs/USAGE.md) for all flags, output files, the Python API, and implementation
-notes.
 
 ## Citation
 
